@@ -30,27 +30,28 @@ Cada proyecto cuenta con una suite de pruebas que contempla la ejecución de dif
 Este proyecto cuenta con una suite de pruebas principal que contempla 20 escenarios de pruebas automatizadas, haciendo uso del API de automatización Kraken.
 La versión de la aplicación Ghost a probar es la 5.22.
 
-> Toda la información de los diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
+> Toda la información de las diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
 `./ Kraken_E2E_Ghost_v_5_22/README.md`
 
 ### Kraken_E2E_Ghost_v_3_42
 Este proyecto cuenta con una suite de pruebas principal que contempla 5 escenarios de pruebas automatizadas, haciendo uso del API de automatización Kraken.
 La versión de la aplicación Ghost a probar es la 3.42.
 
-> Toda la información de los diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
+> Toda la información de las diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
 `./ Kraken_E2E_Ghost_v_3_42/README.md`
 
 ### Cypress_E2E_Ghost_v_5_22
 Este proyecto cuenta con una suite de pruebas principal que contempla 20 escenarios de pruebas automatizadas, haciendo uso del API de automatización Cypress.
 La versión de la aplicación Ghost a probar es la 5.22.
-> Toda la información de los diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
+
+> Toda la información de las diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
 `./Cypress_E2E_Ghost_v_5_22/README.md`
 
 ### Cypress_E2E_Ghost_v_3_42
 Este proyecto cuenta con una suite de pruebas principal que contempla 5 escenarios de pruebas automatizadas, haciendo uso del API de automatización Cypress.
 La versión de la aplicación Ghost a probar es la 3.42.
 
-> Toda la información de los diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
+> Toda la información de las diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
 `./Cypress_E2E_Ghost_v_3_42/README.md`
 
 ### Cypress_E2E_DataGenStra_Ghost_v_5_22
@@ -62,7 +63,7 @@ La versión de la aplicación Ghost a probar es la 5.22.
 - **Pool de datos (pseudo) aleatorio dinámico:** para esta estrategia se hará uso del API de generación de datos aleatorios Mockaroo (https://mockaroo.com/), y se lanzará cada vez que se ejecute un escenario de prueba.
 - **Escenario aleatorio:** para la generación de datos online se hará uso de la librería Faker (https://fakerjs.dev/) que permitirá ir generando datos aleatorios a medida que sean solicitados.
 
-> Toda la información de los diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
+> Toda la información de las diferentes funcionalidades y escenarios, estructura de carpetas, instalación y configuración, ejecución, ventajas y desventajas del uso de la herramienta, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
 `./Cypress_E2E_DataGenStra_Ghost_v_5_22/README.md`
 
 ### VRT_ResembleJS
