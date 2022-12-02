@@ -1,0 +1,66 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules/
+npm-debug.log
+yarn-error.log
+
+# node_modules
+/Kraken_E2E_Ghost_v_5_22/node_modules
+/Kraken_E2E_Ghost_v_3_42/node_modules
+/Cypress_E2E_Ghost_v_5_22/node_modules
+/Cypress_E2E_Ghost_v_3_42/node_modules
+/Cypress_E2E_DataGenStra_Ghost_v_5_22/node_modules
+/VRT_ResembleJS/node_modules
+
+# Screenshots
+/Cypress/cypress/screenshots/*
+
+# results
+/Kraken_E2E_Ghost_v_5_22/reports/*
+/Kraken_E2E_Ghost_v_3_42/reports/*
+/Cypress_E2E_Ghost_v_5_22/cypress/videos/*
+/Cypress_E2E_Ghost_v_5_22/cypress/screenshots/*
+/Cypress_E2E_Ghost_v_3_42/cypress/videos/*
+/Cypress_E2E_Ghost_v_3_42/cypress/screenshots/*
+/Cypress_E2E_DataGenStra_Ghost_v_5_22/cypress/videos/*
+/Cypress_E2E_DataGenStra_Ghost_v_5_22/cypress/screenshots/*
+/VRT_ResembleJS/results/*
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+*.mp4
+
+# System files
+.DS_Store
+Thumbs.db

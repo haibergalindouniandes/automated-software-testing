@@ -1,0 +1,11 @@
+{
+    "URL":"http://localhost:2368/ghost/#/signin",
+    "EMAIL":"h.galindos@uniandes.edu.co",
+    "PASSWORD":"Zl@ifer619",
+    "TITLE_NEW_POST":"Usando Kraken para crear post",
+    "CONTENT_NEW_POST":"Contenido del post a crear y publicar como escenario",
+    "OLDPASSWORD":"Zl@ifer619",
+    "NEWPASSWORD":"Zl@ifer619",
+    "URL_GENERAL_SETTINGS": "http://localhost:2368/ghost/#/settings/general"    
+
+}
