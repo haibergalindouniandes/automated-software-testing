@@ -25,6 +25,13 @@ A continuación, se explica el detalle de los diferentes proyectos:
 ## Escenarios de prueba 
 Cada proyecto cuenta con una suite de pruebas que contempla la ejecución de diferentes casos de pruebas relacionadas con las funcionalidades mencionadas anteriormente.
 
+## Pruebas Exploratorias 
+
+A continuación encontrara el inventario de pruebas Exploratorias realizadas que fueron realizadas por el equipo.
+
+[inventario-pruebas-exploratorias_-_final.xlsx](https://github.com/haibergalindouniandes/automated-software-testing/files/10147507/inventario-pruebas-exploratorias_-_final.xlsx)
+
+
 ## Proyectos 
 ### Kraken_E2E_Ghost_v_5_22
 Este proyecto cuenta con una suite de pruebas principal que contempla 20 escenarios de pruebas automatizadas, haciendo uso del API de automatización Kraken.
