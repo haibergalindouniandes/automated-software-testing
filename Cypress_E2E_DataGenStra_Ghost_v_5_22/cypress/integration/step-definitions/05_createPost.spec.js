@@ -10,7 +10,7 @@ import { Utils } from "../../support/utils";
 const url = Utils.getUrl();
 const emailLogin = Utils.getEmail();
 const passwordLogin = Utils.getPassword();
-const escenario = "04_create_post";
+const escenario = "05_create_post";
 const typeResultSuccess = "success";
 const typeResultError = "Error";
 

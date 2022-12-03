@@ -12,7 +12,7 @@ const url = Utils.getUrl();
 const dashboardPage = Utils.getDashboardPage();
 const emailLogin = Utils.getEmail();
 const passwordLogin = Utils.getPassword();
-const escenario = "13_modify_page";
+const escenario = "08_modify_page";
 
 describe('Modify Page with Data Pool A Priori(DPAP)', () => {
     beforeEach(function () {

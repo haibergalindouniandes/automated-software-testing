@@ -15,10 +15,10 @@ const staffPage = Utils.getStaffPage();
 const emailLogin = Utils.getEmail();
 const passwordLogin = Utils.getPassword();
 const newPassword = Utils.getNewPassword(); 
-const escenario1 = "20_change_password/Correct_oldPassword";
-const escenario2 = "20_change_password/Wrong_oldPassword";
-const escenario3 = "20_change_password/Null_newPassword";
-const escenario4 = "20_change_password/Wrong_VerificationPassword";
+const escenario1 = "04_change_password/Correct_oldPassword";
+const escenario2 = "04_change_password/Wrong_oldPassword";
+const escenario3 = "04_change_password/Null_newPassword";
+const escenario4 = "04_change_password/Wrong_VerificationPassword";
 
 
 //Test using Random DataPool with faker (RDP)

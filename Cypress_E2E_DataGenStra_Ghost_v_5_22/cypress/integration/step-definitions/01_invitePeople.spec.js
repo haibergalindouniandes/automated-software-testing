@@ -17,7 +17,7 @@ const dashboardPage = Utils.getDashboardPage();
 const staffPage = Utils.getStaffPage();
 const emailLogin = Utils.getEmail();
 const passwordLogin = Utils.getPassword();
-const escenario = "11_invite_people";
+const escenario = "01_invite_people";
 
 //////////////////////////// Test using dinamic data pool (DDP)
 describe('Invite People With Dynamic DataPool', () => {

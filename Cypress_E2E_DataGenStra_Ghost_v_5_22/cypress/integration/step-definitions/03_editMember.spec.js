@@ -13,13 +13,13 @@ const dashboardPage = Utils.getDashboardPage();
 const memberPage = Utils.getMemberPage();
 const emailLogin = Utils.getEmail();
 const passwordLogin = Utils.getPassword(); 
-const escenario1 = "07_edit_member/Valid_email";
-const escenario2 = "07_edit_member/Invalid_email";
-const escenario3 = "07_edit_member/Null_email";
-const escenario4 = "07_edit_member/Name_naughty_string";
-const escenario5 = "07_edit_member/Null_name";
-const escenario6 = "07_edit_member/Note_naughty_string";
-const escenario7 = "07_edit_member/Note_greater_500_characters";
+const escenario1 = "03_edit_member/Valid_email";
+const escenario2 = "03_edit_member/Invalid_email";
+const escenario3 = "03_edit_member/Null_email";
+const escenario4 = "03_edit_member/Name_naughty_string";
+const escenario5 = "03_edit_member/Null_name";
+const escenario6 = "03_edit_member/Note_naughty_string";
+const escenario7 = "03_edit_member/Note_greater_500_characters";
 
 
 //Test using Random DataPool with faker (RDP)

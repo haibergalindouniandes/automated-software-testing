@@ -11,7 +11,7 @@ const url = Utils.getUrl();
 const dashboardPage = Utils.getDashboardPage();
 const emailLogin = Utils.getEmail();
 const passwordLogin = Utils.getPassword();
-const escenario = "03_create_page";
+const escenario = "07_create_page";
 
 
 //Test setup
