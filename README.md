@@ -43,7 +43,7 @@ El oráculo en este caso es implícito, porque lo que se buscaba era detectar de
 `./Cypress_MonkeyTest_Ghost_v_5_22/README.md`
 
 ### RIPuppet_SST_Ghost_v_5_22
-Este proyecto permite realizar pruebas de exploración sistema de interfaz gráfica o GUI haciendo uso del API RIPuppet (https://misovirtual.virtual.uniandes.edu.co/codelabs/web-gui-ripper), el cual a través de una heurística predefinida realiza la exploración de la aplicación bajo pruebas de forma automatizada.
+Este proyecto permite realizar pruebas de exploración sistematica de interfaz gráfica o GUI haciendo uso del API RIPuppet (https://misovirtual.virtual.uniandes.edu.co/codelabs/web-gui-ripper), el cual a través de una heurística predefinida realiza la exploración de la aplicación bajo pruebas de forma automatizada.
 
 > Toda la información de la estructura de carpetas, instalación y configuración, ejecución, entre otras, son detalladas en el archivo `README.md` que se encuentra en raíz del proyecto.
 `./RIPuppet_SST_Ghost_v_5_22/README.md`
