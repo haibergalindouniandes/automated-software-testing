@@ -8,7 +8,7 @@
 | Edgar Ariel Salamanca Camargo | ea.salamanca@uniandes.edu.co |
 
 # Pruebas Automatizadas De Extremo A Extremo Con Kraken - Aplicación Ghost
-Este proyecto permite realizar pruebas automatizadas de extremo a extremo de la aplicación Ghost, haciendo uso del API de Automatización [Kraken](https://thesoftwaredesignlab.github.io/KrakenMobile/). A continuación se explica el detalle: 
+Este proyecto permite realizar pruebas automatizadas de extremo a extremo de la aplicación Ghost, haciendo uso del API de Automatización Kraken (https://thesoftwaredesignlab.github.io/KrakenMobile/). A continuación se explica el detalle: 
 
 ## Escenarios de prueba 
 El proyecto cuenta con una suite de pruebas principal que tiene 20 escenarios de prueba automatizadas, los cuales se detallan a continuación:

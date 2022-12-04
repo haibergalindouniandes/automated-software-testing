@@ -1,0 +1,14 @@
+{
+    "url": "http://localhost:2368/ghost/#/signin",
+    "headless": true,
+    "depthLevels": 1,
+    "inputValues": true,
+    "values": {
+        "input[name='identification']": "h.galindos@uniandes.edu.co",
+        "input[name='password']": "**Zl@ifer619**",
+        "button[type='submit']": "**Zl@ifer619**",
+        "nameInput": "Haiber Humberto Galindo ",
+        "emailInput": "h.galindos@uniandes.edu.co"
+    },
+    "browsers": ["chromium", "webkit", "firefox"]
+}

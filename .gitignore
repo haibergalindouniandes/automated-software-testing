@@ -18,6 +18,8 @@ yarn-error.log
 /Cypress_E2E_Ghost_v_3_42/node_modules
 /Cypress_E2E_DataGenStra_Ghost_v_5_22/node_modules
 /VRT_ResembleJS/node_modules
+/RIPuppet_SST_Ghost_v_5_22/node_modules
+/Cypress_MonkeyTest_Ghost_v_5_22/node_modules
 
 # Screenshots
 /Cypress/cypress/screenshots/*
@@ -31,7 +33,10 @@ yarn-error.log
 /Cypress_E2E_Ghost_v_3_42/cypress/screenshots/*
 /Cypress_E2E_DataGenStra_Ghost_v_5_22/cypress/videos/*
 /Cypress_E2E_DataGenStra_Ghost_v_5_22/cypress/screenshots/*
+/Cypress_MonkeyTest_Ghost_v_5_22/cypress/videos/*
+/Cypress_MonkeyTest_Ghost_v_5_22/cypress/screenshots/*
 /VRT_ResembleJS/results/*
+/RIPuppet_SST_Ghost_v_5_22/results/*
 
 # IDEs and editors
 .idea/
