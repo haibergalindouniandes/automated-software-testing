@@ -27,9 +27,9 @@ Cada proyecto cuenta con una suite de pruebas que contempla la ejecución de dif
 
 ## Pruebas Exploratorias 
 
-A continuación encontrara el inventario de pruebas Exploratorias realizadas que fueron realizadas por el equipo.
+A continuación encontrara el inventario de pruebas exploratorias que fueron realizadas por el equipo.
 
-[inventario-pruebas-exploratorias_-_final.xlsx](https://github.com/haibergalindouniandes/automated-software-testing/files/10147507/inventario-pruebas-exploratorias_-_final.xlsx)
+[inventario-pruebas-exploratorias-final.xlsx](https://github.com/haibergalindouniandes/automated-software-testing/files/10147760/inventario-pruebas-exploratorias-final.xlsx)
 
 
 ## Proyectos 
