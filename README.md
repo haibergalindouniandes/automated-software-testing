@@ -9,7 +9,9 @@
 
 # Proyecto Automatización De Pruebas De Software
 
-Este proyecto recopila los diferentes proyectos construidos durante el curso, los cuales tienen como objetivo realizar pruebas a la  aplicación bajo pruebas (ABP) Ghost (https://ghost.org/), haciendo uso de APIs de Automatización como Cypress (https://www.cypress.io/) y Kraken (https://thesoftwaredesignlab.github.io/KrakenMobile/), así como también permite realizar pruebas de regresión visual a través del uso de ResembleJS (https://rsmbl.github.io/Resemble.js/).
+Este proyecto recopila los diferentes proyectos construidos durante el curso, los cuales tienen como objetivo realizar pruebas a la aplicación bajo pruebas (ABP) Ghost (https://ghost.org/), haciendo uso de APIs de Automatización como Cypress (https://www.cypress.io/) y Kraken (https://thesoftwaredesignlab.github.io/KrakenMobile/) para la creación de pruebas de extremo a extremo y para expandir estas pruebas se implementaron estrategias de generación de datos como Pool de datos a-priori, Pool de datos (pseudo) aleatorio dinámico y Escenario aleatorios.
+<br>Adicional a lo anterior se crearon proyectos con Monkey y Ripper Testing para pruebas de reconocimiento tanto aleatorias como sistemáticas, y por último se generó un proyecto de pruebas de regresión visual a través del uso del API de comparación ResembleJS (https://rsmbl.github.io/Resemble.js/) 
+
 
 A continuación, se explica el detalle de los diferentes proyectos: 
 
@@ -27,7 +29,7 @@ Cada proyecto cuenta con una suite de pruebas que contempla la ejecución de dif
 
 ## Pruebas Exploratorias 
 
-A continuación encontrara el inventario de pruebas exploratorias que fueron realizadas por el equipo.
+A continuación, encontrara el inventario de pruebas exploratorias que fueron realizadas por el equipo y que contiene todo el detalle de las diferentes pruebas realizadas, como lo es la funcionalidad, el soporte visual de cada una y el enlace correspondiente al reporte de incidencias.
 
 [inventario-pruebas-exploratorias-final.xlsx](https://github.com/haibergalindouniandes/automated-software-testing/files/10147760/inventario-pruebas-exploratorias-final.xlsx)
 
