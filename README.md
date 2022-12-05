@@ -101,3 +101,8 @@ Este proyecto permite realizar pruebas de regresión visual, la cual consiste en
 | ----- |
 |3.42|
 |5.22|
+
+# Soportes De La Entrega Final
+
+Todos los soportes documentales y audiovisuales correspondientes al proyecto de Automatización de pruebas de software, orientados a realizar la validación y verificación de la aplicación bajo pruebas Ghost, se encuentran relacionados en la siguiente wiki.
+<br>[Soportes Entrega Final]( https://github.com/haibergalindouniandes/automated-software-testing/wiki/Soportes-Entrega-Final)
